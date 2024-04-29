@@ -1,8 +1,7 @@
-# food-delivery
+# Food Delivery
+## How to run project
 
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/nhanjunior14/food-delivery.git
-git push -u origin main
+1.	Paste the project folder into xampp's "htdocs" folder
+2.	Access the database management page with the URL `http://localhost/phpmyadmin`
+3.	Create database with name `food_delivery`
+4.	Click on the `Import` tab and choose the database file (.sql)
