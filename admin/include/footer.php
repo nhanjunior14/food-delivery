@@ -1,0 +1,1 @@
+<footer class="footer" style="text-align: center;">Coding by <a href="https://github.com/nhanjunior14" class="text-primary">Nhan Junior</a> © 2024 - Food Delivery</footer>
