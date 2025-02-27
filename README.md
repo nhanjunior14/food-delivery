@@ -35,14 +35,10 @@
 
 ### Account Admin
 
-    ```
-        admin
-        123456
-    ```
+    admin
+    123456
 
 ### Account Customer
 
-     ```
-        customer
-        123456
-    ```
+    customer
+    123456
